@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -186,8 +188,11 @@
   },
   "active": "bc54eacf11f18b2a",
   "lastOpenFiles": [
-    "牛顿运动定律.md",
+    "动量与角动量.md",
     "质点运动学.md",
+    "牛顿运动定律.md",
+    "794e7a0e1ef4ca4db3748385e3391c09.png",
+    "机械波_波动光学.md",
     "Da Wu.md",
     "新建 文本文档.txt"
   ]
